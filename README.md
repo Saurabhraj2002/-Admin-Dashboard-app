@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+A customizable React Admin Dashboard with themes, tables, charts, calendar, and Kanban board for a seamless user experience.
+
+Features
+Customizable Themes: Choose from a variety of themes to match your style.
+Dynamic Tables: Create and manage data tables with ease.
+Interactive Charts: Visualize your data with various types of charts.
+Calendar Integration: Keep track of events and deadlines using the built-in calendar.
+Kanban Board: Organize tasks and workflows using the Kanban board.
+Getting Started
+Follow these steps to get the project up and running on your local machine.
+
+Prerequisites
+Node.js (v14 or higher)
+npm (v6 or higher)
